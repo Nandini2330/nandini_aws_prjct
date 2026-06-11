@@ -1,5 +1,4 @@
-Flask
+flask
 mysql-connector-python
-Werkzeug
 boto3
 gunicorn
